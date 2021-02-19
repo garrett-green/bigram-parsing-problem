@@ -8,7 +8,7 @@ View _The BIg Gram Parsing Problem_ Prompt: [`assets/prompt.pdf`](https://github
 ## Installation
 1. Download the repo (via one of the options below)
     - `git clone https://github.com/garrett-green/bigram-parsing-problem.git`
-    - Download the .zip file
+    - [Download the .zip file](https://github.com/garrett-green/bigram-parsing-problem/archive/main.zip)
 2. `cd bigram-parsing-problem`
 3. `yarn`
 
